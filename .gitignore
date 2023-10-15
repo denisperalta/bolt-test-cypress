@@ -1,5 +1,5 @@
 /node_modules
-/cypress/videos
+videos
 /cypress/results
 /cypress/screenshots
 /mochawesome-report

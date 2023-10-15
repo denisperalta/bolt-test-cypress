@@ -11,7 +11,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema a
 Para começar, siga os seguintes passos:
 
 1. Clone este repositório
-2. Na pasta do repositório, execute: `npm run install`
+2. Na pasta do repositório, execute: `npm install`
 
 ## Executando os Testes
 
